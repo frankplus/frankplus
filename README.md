@@ -35,13 +35,13 @@
   - Developed with Spring Boot, React, PostgreSQL, Material-UI, Docker, Java, Javascript 
 
  🎮 **WebAssembly 2D game engine**: ([🔗Code](https://github.com/frankplus/JGE) | [🔗Code](https://github.com/frankplus/csweb) | [🕹️Demo](https://frankplus.github.io/))
-  - Developed a C++ 2D game engine for the web using WebAssembly and WebGL technologies 
+  - Developed a C++ 2D game engine for the web using **WebAssembly** and **WebGL** technologies 
   - ported a 2D homebrew game for Playstation to the web.
 
  📈 **Mathematical function plotter**: ([🔗Code](https://github.com/Franciman/plasm) | [🕹️Demo](https://frankplus.github.io/plasm/))
-  - Built a Rust web application for 2D, 3D, implicit and explicit mathematical functions plotter using WebAssembly and WebGL technologies.
+  - Built a **Rust** web application for 2D, 3D, implicit and explicit mathematical functions plotter using WebAssembly and WebGL technologies.
 
  📱 **Android app for local jobs search & post**: ([🔗Code](https://github.com/nicomazz/LocalJobs))
-  - Developed Kotlin application for searching, posting and sharing local jobs.
+  - Developed **Kotlin** application for searching, posting and sharing local jobs.
   - Adopted agile development by using CI tools and GitFlow model.
   - Optimized the application for offline use with real time data syncing using Firebase and latest Android Jetpack tools.
