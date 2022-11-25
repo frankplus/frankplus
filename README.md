@@ -1,5 +1,13 @@
 ### Hi there, I'm Francesco 👋 
 
+I love everything related to computers, science and engineering.
+
+I am a recent graduate with honors in MSc Computer Engineering and I've been involved in software development since I was a child.
+
+My main interests are AI, Embedded Systems and Computer Graphics. I also have some background in Android Development and Web Development.
+
+I have experience in multiple programming languages such as: C/C++, Python, Java, Kotlin, Rust, JavaScript.
+
 ## My work experience
 👨‍💻 **Open Source Software Engineer at Huawei** (Nov 2021 - Ongoing)
 - Enable intelligent interoperability between **IoT** devices in the Oniro Project
