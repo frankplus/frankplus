@@ -26,7 +26,7 @@ I have experience in multiple programming languages such as: C/C++, Python, Java
 ![frankplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankplus&count_private=true&show_icons=true)
 
 ## Recent Projects
- 🎓 **Master Thesis on Deep 3D optimisation - EUVIP 2022 Pubblication**: ([🔗Code](https://github.com/frankplus/Deep-3D-optimization) | [📄Paper](https://github.com/frankplus/Deep-3D-optimization/blob/master/EUVIP2022.pdf))
+ 🎓 **Master Thesis on Deep 3D optimisation - EUVIP 2022 Pubblication**: ([🔗Code](https://github.com/frankplus/Deep-3D-optimization) | [📄Paper](https://ieeexplore.ieee.org/document/9922742))
   - Improved QoE of 3D interactive applications through deep learning driven LOD selection
   - Trained a neural network in **PyTorch** for an accurate rendering quality prediction
   - Developed **Unity** script for dataset generation and neural network deployment
