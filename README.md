@@ -2,7 +2,7 @@
 
 I love everything related to computers, science and engineering.
 
-I am a recent graduate with honors in MSc Computer Engineering and I've been involved in software development since I was a child.
+I recently graduated with honors in MSc Computer Engineering and I've been involved in software development since I was a child.
 
 My main interests are AI, Embedded Systems and Computer Graphics. I also have some background in Android Development and Web Development.
 
