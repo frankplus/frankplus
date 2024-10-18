@@ -10,10 +10,10 @@ I have experience in multiple programming languages such as: C/C++, Python, Java
 
 ## My work experience
 👨‍💻 **Open Source Software Engineer at Huawei** (Nov 2021 - Ongoing)
-- Enable intelligent interoperability between **IoT** devices in the Oniro Project
-- Developed **CoAP** based communication framework supporting **Linux** and **Zephyr**
-- Skills learned: Yocto Project · Linux · Open-Source Software · Embedded Systems
-- Take a look at my [Oniro Project](https://projects.eclipse.org/projects/oniro/who) contributions: https://gitlab.eclipse.org/mrfrank
+- Lead integration of **OpenHarmony** into [**Eclipse Oniro**](https://oniroproject.org/), developing Yocto meta-layers for hardware like **Raspberry Pi 4** and **QEMU**.
+- Engineered **GitHub Actions** pipelines for OpenHarmony, automating builds and deployments on **Raspberry Pi** and **Rockchip** platforms.
+- Developed **PoC** with **Bosch** and **Hoperun**, integrating **Eclipse Kanto** for cloud connectivity and **MQTT** messaging.
+- Led the bringup of **Oniro/OpenHarmony** on the **Volla x23** phone, enabling system services and UI functionality.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-pham-54128486/)
 
